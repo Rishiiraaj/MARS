@@ -1,0 +1,13 @@
+<head>
+<title> Class-7</title>
+<style type=”text/css”>
+Body{color:red;text-decoration:underline;}
+P{text-indent;40px;text-transform:capitalize; line-height:1.5}
+H1{text-align:left;text-shadow:5px red}
+</style>
+<body>
+<marquee>Hello Class-7, welcome</marquee>
+<marquee><img src ="C:\Users\HP\OneDrive\Pictures\CLASS-9-PHOTOS-22-23-REGIS.jpeg"></marquee>
+</body>
+
+</html>
